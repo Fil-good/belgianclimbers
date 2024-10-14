@@ -3,12 +3,12 @@ import './App.css';
 // import climber1 from './components/img_climber1/climber1';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import CollapsibleExample from './components/NavbarClimb.js';
+import NavBarClimbers from './components/NavbarClimb.js';
 
 function App() {
   return (
     <div>
-      <CollapsibleExample />
+      <NavBarClimbers />
 
 
           {/* <img src={logo} className="App-logo" alt="logo" /> */}

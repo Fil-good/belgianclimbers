@@ -1,0 +1,11 @@
+
+
+Make navigation -> check out ch 10 _> 13 (comps project) React redux on Custom Navigation.
+
+window.history.pushState
+
+Window emits a popstate event if the user current url was added by pushState
+
+> window.addEventListener('popstate', ()=> console.log('I am at', window.location.pathname))
+
+-> redo module 227
